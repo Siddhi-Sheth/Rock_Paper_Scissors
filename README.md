@@ -2,9 +2,9 @@
 #### Classic game ROCK,PAPER,SCISSORS to play in browser buld in Javascript.
 
 ## Built with
-HTML
-CSS 
-JAVASCRIPT
+1. HTML
+2. CSS
+3. JAVASCRIPT
 
 ### Game:
 #### click on image to selcect r,c,p
